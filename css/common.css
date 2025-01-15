@@ -37,6 +37,9 @@ caption {position:relative; font-size:0;} /* safari bug */
     padding-bottom:40px;
     border-bottom:7px double #eee;
 } 
+.container h1 span {
+    font-size:13px;
+}
 
 .vue_li {
     width:65%;
